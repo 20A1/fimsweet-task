@@ -761,14 +761,13 @@ color: white;
  }
   
   .btn{
-     padding: 14px 20px;
+     padding: 14px 5px;
+     width: 30%;
      margin: 0;
   }
   
   .text-bottom {
-    font-size: 12px;
-    font-family: 'manrope',sans-serif;
-    font-weight: 600;
+    font-size: 9px;
   }
  main .container .right-img{
      width: 100%;
@@ -910,11 +909,12 @@ row-gap: 15px;
 }
 .sct-5 {
     height: auto;  
-    padding: 30px 20px
+    padding: 20px 20px
 }
 .sct-5-container {
     height: auto;
     width: 100%;
+    margin: 0px;
 }
 .sct-5-box{
     justify-content: center;
@@ -964,7 +964,7 @@ row-gap: 15px;
     }
     main{
         height: auto;
-        width: 95%;
+        width: 98%;
         margin-top: 20px;
         margin-bottom: 30px;
     }
@@ -993,7 +993,7 @@ row-gap: 15px;
       padding-right: 0px;   
      }
     .text-bottom h2{
-        font-size: 17px;
+        font-size: 14px;
     }
     main .container .right-img{
         width: 50%;
