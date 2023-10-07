@@ -642,7 +642,7 @@ background: #F2F2F2;
 }
 
 /* MOBILE VIEW */
-@media screen and (max-width: 425px){
+@media screen and (max-width: 620px){
     header{
         width: 100%;
         padding: 14px 10px;   
@@ -914,6 +914,16 @@ row-gap: 15px;
     height: auto;
     width: 100%;
 }
+.sct-5-box{
+    justify-content: center;
+    row-gap: 20px;
+    }
+    .text-box-tx{
+        font-size: 18px;  
+    }
+    .fa-solid {
+        font-size: 25px;
+    }
 .sct-6{
     height: auto;
     padding: 30px 20px;
